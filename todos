@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Todo List</title>
+  </head>
+  <body>
+
+  <ul>
+    <li>Play with myself</li>
+    <li>Touch myself</li>
+    <li>Masterbate</li>
+  </ul>
+
+  <script type= "text/javascript" src= "todos.js"></script>
+  </body>
+</html>
